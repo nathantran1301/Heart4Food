@@ -266,11 +266,11 @@ session_start();
                 </div>
                 <div class="profile-container">
                     <img src="images/profile3.jpg" alt="Profile Picture 3">
-                    <p>Name </p>
+                    <p>Giyoo | Hustler </p>
                 </div>
                 <div class="profile-container">
                     <img src="images/profile4.jpg" alt="Profile Picture 4">
-                    <p> Name </p>
+                    <p> Luis | Hipster </p>
                 </div>
             </div>
         </div>
